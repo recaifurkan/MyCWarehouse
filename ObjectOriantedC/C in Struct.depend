@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1562176647 source:c:\users\öðrenci\desktop\pic xc8\c in struct\c in struct\main.c
+	<stdio.h>
+	<stdlib.h>
+	"PString.h"
+
+1562176789 c:\users\öðrenci\desktop\pic xc8\c in struct\c in struct\pstring.h
+	"PStringMethods.h"
+
+1562176719 c:\users\öðrenci\desktop\pic xc8\c in struct\c in struct\pstringmethods.h
+	"PString.h"
+
