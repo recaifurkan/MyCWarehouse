@@ -14,7 +14,7 @@ typedef struct {
 
 #include "PStringMethods.h"
 
-PString *initPString(int n) {
+PString *PString_init(int n) {
     PString *str = malloc(sizeof(PString));
 
     str->chars = malloc(sizeof(char) * n);

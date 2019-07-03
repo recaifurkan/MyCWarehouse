@@ -1,6 +1,6 @@
 #ifndef PSTRINGMETHODS_H_INCLUDED
 #define PSTRINGMETHODS_H_INCLUDED
-#include "PString.h"
+
 
 int PString_length(PString *self, char* a) {
     printf(a);

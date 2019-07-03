@@ -6,7 +6,7 @@
 
 
 int main() {
-    PString *p = initPString(30);
+    PString *p = PString_init(30);
     p->setChars(p,"test");
 
     printf(p->chars);
